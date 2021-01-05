@@ -1,1 +1,1 @@
-# competitions
+# Competitions
